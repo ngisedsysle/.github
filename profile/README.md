@@ -2,6 +2,12 @@
 
 
 
+## MCU Architecture Implementation
+
+Different implementation for most used architecure on MCU
+
+State Machine: https://github.com/XdoctorwhoZ/UML-State-Machine-in-C
+
 
 
 ## Test Bench Mechanical Tips
