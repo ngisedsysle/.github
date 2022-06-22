@@ -14,6 +14,7 @@
 
 Different implementation for most used architecure on MCU
 
+- Event Loop : https://github.com/BCadet/eventLoop
 - State Machine: https://github.com/XdoctorwhoZ/UML-State-Machine-in-C
 
 
