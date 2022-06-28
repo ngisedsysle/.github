@@ -1,8 +1,12 @@
 # ELSYS Design Open Community
 
-<img src="logo_elsys.png" alt="logo_elsys" width="200"/>
+<p align="center">
+   <img src="logo_elsys.png" alt="logo_elsys" width="800"/>
+</p>
 
-## [Company](https://www.elsys-design.com/en/)
+## Company
+
+[Web Site](https://www.elsys-design.com/en/)
 
 ELSYS Design proposes top-notch embedded system design services in FPGA, IP, ASIC, SoC, verification, IC layout, PCB and embedded software.
 
