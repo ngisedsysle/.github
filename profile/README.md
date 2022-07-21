@@ -34,6 +34,12 @@ Different implementation for most used architecure on MCU
 - Event Loop : https://github.com/BCadet/eventLoop
 - State Machine: https://github.com/XdoctorwhoZ/UML-State-Machine-in-C
 
+### Protocoles
+
+#### Modbus
+
+- [Python Module: pymodbus](https://pypi.org/project/pymodbus/)
+- [MCU hardware independent implementation in C]()
 
 ### Test Bench Mechanical Tips
 
