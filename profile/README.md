@@ -39,7 +39,7 @@ Different implementation for most used architecure on MCU
 #### Modbus
 
 - [Python Module: pymodbus](https://pypi.org/project/pymodbus/)
-- [MCU hardware independent implementation in C]()
+- [MCU hardware independent implementation in C](https://jacajack.github.io/liblightmodbus/index.html)
 
 ### Test Bench Mechanical Tips
 
