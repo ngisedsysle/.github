@@ -31,8 +31,8 @@ ELSYS Engineers are passionated about embedded systems. They are happy to use an
 
 Different implementation for most used architecure on MCU
 
-- Event Loop : https://github.com/BCadet/eventLoop
-- State Machine: https://github.com/XdoctorwhoZ/UML-State-Machine-in-C
+- [Event Loop](https://github.com/BCadet/eventLoop)
+- [State Machine](https://github.com/XdoctorwhoZ/UML-State-Machine-in-C)
 
 ### Protocoles
 
@@ -40,6 +40,14 @@ Different implementation for most used architecure on MCU
 
 - [Python Module: pymodbus](https://pypi.org/project/pymodbus/)
 - [MCU hardware independent implementation in C](https://jacajack.github.io/liblightmodbus/index.html)
+
+### Cmake
+
+- [Cmake generic environnmeent integrated in docker](https://github.com/BCadet/generic-cmake-env): Template to easily create your cmake project inside a docker image and compatible with vscode
+
+### Xilinx
+
+- [Petalinux Docker Image Generator](https://github.com/BCadet/docker-petalinux): Tool to generate a docker environnment from an Xilinx Petalinux installer
 
 ### Test Bench Mechanical Tips
 
